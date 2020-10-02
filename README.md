@@ -10,9 +10,12 @@ Wersje komponentow:
  - Redis 2.2
 
 
-Instrukcja dla windowsa:
+Instalacja:
 
-1. Rozpakuj
-2. Uruchom startujac start.bat
-3. W przegladarce chrome
+1. Rozpakuj plik  .7z
+
+Uruchomienie:
+
+1.Uruchom startujac start.bat
+2.W przegladarce chrome
  Start z adresu: http://localhost:7778/
