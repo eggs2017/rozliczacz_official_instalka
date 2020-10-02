@@ -16,6 +16,6 @@ Instalacja:
 
 Uruchomienie:
 
-1.Uruchom startujac start.bat
-2.W przegladarce chrome
+1. Uruchom startujac start.bat
+2. W przegladarce chrome
  Start z adresu: http://localhost:7778/
